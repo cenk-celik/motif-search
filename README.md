@@ -11,4 +11,4 @@ Outline:
 * Machine learning for novel feature detection
 * 3D structure protein alignment
 
-You can check [the knitted document](motif-search.html) or download the R-markdown [file](motif-search.rmd).
+You can check [the knitted document](motif-search.html) or download the R-markdown [file](motif-search.Rmd).
